@@ -1,0 +1,6 @@
+env
+.envs
+__*__
+__init__.py
+db.sqlite3
+postgres_data
