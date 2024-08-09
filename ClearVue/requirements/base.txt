@@ -1,0 +1,23 @@
+
+# Django
+# ------------------------------------------------------------------------------
+django==4.2.14 # https://www.djangoproject.com/
+django-braces==1.15.0 # https://github.com/brack3t/django-braces/
+django-environ==0.11.2 # https://github.com/joke2k/django-environ
+django-guardian==2.4.0 # https://github.com/django-guardian/django-guardian
+django-model-utils==4.5.1 # https://github.com/jazzband/django-model-utils
+django-allauth==0.57.0 # https://github.com/pennersr/django-allauth
+django-crispy-forms==1.14.0 # https://github.com/django-crispy-forms/django-crispy-forms
+crispy-bootstrap5==0.7 # https://github.com/django-crispy-forms/crispy-bootstrap5
+django-widget-tweaks==1.5.0 # https://github.com/jazzband/django-widget-tweaks
+djangorestframework==3.15.1 # https://github.com/encode/django-rest-framework
+django-simple-history==3.4.0 # https://github.com/jazzband/django-simple-history
+django-select2==8.1.2 # https://github.com/codingjoe/django-select2
+django-storages[azure]==1.14.2 # https://github.com/jschneier/django-storages/
+django-pipeline==3.1.0 # https://github.com/jazzband/django-pipeline
+django-phonenumber-field[phonenumbers]==7.1.0 # https://github.com/stefanfoulis/django-phonenumber-field
+djangorestframework-simplejwt[crypto]==5.3.1 # https://github.com/jazzband/djangorestframework-simplejwt
+django-q2==1.5.5 # https://github.com/django-q2/django-q2
+dj-rest-auth==5.1.0 # https://github.com/iMerica/dj-rest-auth
+django-allow-cidr==0.7.1 # https://github.com/mozmeao/django-allow-cidr
+django-waffle==4.0.0 # https://github.com/django-waffle/django-waffle
